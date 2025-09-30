@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "cmd2_ansi"
 description = "Backport of cmd2.ansi module from cmd2 2.7.0 to ease migration to cmd2 3.x"
-version = "1.0.0"
+version = "1.0.1"
 authors = [{ name = "cmd2 Contributors" }]
 readme = "README.md"
 requires-python = ">=3.10"
